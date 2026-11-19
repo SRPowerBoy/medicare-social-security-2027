@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://medicaresocialsecurity.sethr4814.workers.dev/sitemap.xml
